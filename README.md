@@ -2,8 +2,6 @@
 
 ## Project 1: Simple scheduling
 
-Programming assignment #1 due by Nov. 18. 2019 (11:59pm) KST
-
 ## 1. Back ground: Round-Robin Scheduling
 
 **Round Robin (RR) scheduling** algorithm is designed specifically for time-sharing systems. It is a preemptive
@@ -63,11 +61,11 @@ schedule_dump.txt. Students would like to refer to the following C-library funct
 write, close. All the processes should run at least for 1min. Print out the scheduling operations during (0 ~ 10,000)
 time ticks. (Note: C programming language is recommended, but is not limited to C.)
 
+
+
 # OS Term Project # 2
 
 ## Project 2 : Multi-process execution with Virtual Memory (Paging)
-
-Programming assignment # 2 due by Dec. 05. 2019 (11:59pm) KST
 
 ## Introduction
 
