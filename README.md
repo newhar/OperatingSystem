@@ -2,6 +2,8 @@
 
 ## Project 1: Simple scheduling
 
+![image](https://user-images.githubusercontent.com/40593455/98447705-60d8c100-216a-11eb-89d9-970666985a29.png)
+
 ## 1. Back ground: Round-Robin Scheduling
 
 **Round Robin (RR) scheduling** algorithm is designed specifically for time-sharing systems. It is a preemptive
@@ -66,6 +68,8 @@ time ticks. (Note: C programming language is recommended, but is not limited to 
 # OS Term Project # 2
 
 ## Project 2 : Multi-process execution with Virtual Memory (Paging)
+
+![image](https://user-images.githubusercontent.com/40593455/98447724-74842780-216a-11eb-9c79-d70f0da22721.png)
 
 ## Introduction
 
